@@ -767,6 +767,10 @@
 		WinterCoif_Blue,			*,		55,		18
 		WinterCoif_Green,			*,		55,		18
 		WinterCoif_Skull,			*,		55,		18
+		SherpaHat_Black,			*,		55,		18
+		SherpaHat_Blue,			*,		55,		18
+		SherpaHat_Red,			*,		55,		18
+		BudenovkaHat_Gray,			*,		55,		18
 		NBCHoodGray,			*,		100,	30		
 		NBCHoodYellow,			*,		100,	30
 		NBCHoodWhite,			*,		100,	30
